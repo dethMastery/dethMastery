@@ -1,7 +1,7 @@
 <center>
 
 <a href="https://detzz.in.th" target="_blank">
-    <img src="/content/banner.svg" alt="banner" width="100%" />
+    <img src="/content/banner.svg" alt="banner" width="100%" style={{border-radius: "25px"}} />
 </a>
 
 <br />
