@@ -1,5 +1,5 @@
 <center>
-<img src="./content/banner.png" alt="banner" width="100%" />
+<img src="/content/banner.png" alt="banner" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=dethMastery&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true&hide_title=true" alt="dethStat" width="60%"/>
 
