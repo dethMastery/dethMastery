@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=dethMastery&show_icons=true&theme=tokyonight" alt="dethStat" />
+<img src="https://github-readme-stats.vercel.app/api?username=dethMastery&show_icons=true&theme=tokyonight" alt="dethStat" width="100%"/>
