@@ -25,4 +25,18 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&hide_border=true&layout=compact&icon_color=fff&bg_color=188751&text_color=EDEDED" alt="wakatime" width="100%" />
 </a>
 
+  [![HomePage](https://img.shields.io/badge/-HomePage-black?style=for-the-badge)](https://detzz.in.th)
+
+  [![FB](https://img.shields.io/badge/Facebook-Geroge%20Deterk-1978F3?style=for-the-badge)](https://fb.com/detzz.in.th)
+
+  [![Twitter](https://img.shields.io/badge/Twitter-@JojiDetzz-skyblue?&style=for-the-badge)](https://twitter.com/JojiDetzz)
+
+  [![Discord](https://img.shields.io/badge/discord-katsuragi%232605-6C87D4?style=for-the-badge)](https://000198.xyz/w/discord)
+
+  [![Github](https://img.shields.io/badge/Github-%40dethMastery-black?&style=for-the-badge)](https://github.com/dethMastery)
+  
+  [![IG](https://img.shields.io/badge/Instragram-%40detzz.th-82008F?style=for-the-badge)](https://instagram.com/detzz.th)
+  
+  <a href="mailto:me@detzz.in.th">![E-Mail](https://img.shields.io/badge/e--mail-me%40detzz.in.th-coral?style=for-the-badge)</a>
+    
 </center>
