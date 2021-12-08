@@ -20,13 +20,6 @@
 
 <br />
 <br />
-    
-
-<a href="https://detzz.in.th" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dethMastery&theme=dark&hide_border=true&layout=compact&icon_color=fff&bg_color=188751&text_color=EDEDED" alt="wakatime" />
-</a>
-    
-<br /><br />
 
   [![HomePage](https://img.shields.io/badge/-HomePage-black?style=for-the-badge)](https://detzz.in.th)
 
