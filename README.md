@@ -27,7 +27,7 @@
 
   [![Twitter](https://img.shields.io/badge/Twitter-@JojiDetzz-skyblue?&style=for-the-badge)](https://twitter.com/JojiDetzz)
 
-  [![Discord](https://img.shields.io/badge/discord-katsuragi%232605-6C87D4?style=for-the-badge)](https://000198.xyz/w/discord)
+  [![Discord](https://img.shields.io/badge/discord-katsuragi%230198-6C87D4?style=for-the-badge)](https://000198.xyz/w/discord)
 
   [![Github](https://img.shields.io/badge/Github-%40dethMastery-black?&style=for-the-badge)](https://github.com/dethMastery)
   
