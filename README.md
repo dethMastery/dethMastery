@@ -1,38 +1,43 @@
-<center>
+Hi 👋 My name is Suphakit P.
+============================
 
-<a href="https://detzz.in.th" target="_blank">
-    <img src="/content/banner.svg" alt="banner" width="100%" style="border-radius: 25px;" />
-</a>
+I'm a Front-End Developer (with a little of Back-End Skill) & Music Composer. This website is made to showed my old time projects that I have ever made. ;3
 
-<br />
-<br />
-
-<a href="https://detzz.in.th" target="_blank">
-    <img src="https://mwmk-gstat.vercel.app/api?username=dethMastery&show_icons=true&theme=dark&count_private=true&hide_border=true&hide_rank=true&hide_title=true&layout=compact&icon_color=fff&bg_color=188751&text_color=EDEDED" alt="dethStat" />
-</a>
-
-<br />
-<br />
-
-<a href="https://detzz.in.th" target="_blank">
-    <img src="https://mwmk-gstat.vercel.app/api/top-langs/?username=dethMastery&theme=dark&hide_border=true&hide_progress=true&layout=compact&icon_color=fff&bg_color=188751&text_color=EDEDED" alt="top langs" />
-</a>
-
-<br />
-<br />
-
-  [![HomePage](https://img.shields.io/badge/-HomePage-black?style=for-the-badge)](https://detzz.in.th)
-
-  [![FB](https://img.shields.io/badge/Facebook-Geroge%20Deterk-1978F3?style=for-the-badge)](https://fb.com/detzz.in.th)
-
-  [![Twitter](https://img.shields.io/badge/Twitter-@JojiDetzz-skyblue?&style=for-the-badge)](https://twitter.com/JojiDetzz)
-
-  [![Discord](https://img.shields.io/badge/discord-katsuragi%230198-6C87D4?style=for-the-badge)](https://000198.xyz/w/discord)
-
-  [![Github](https://img.shields.io/badge/Github-%40dethMastery-black?&style=for-the-badge)](https://github.com/dethMastery)
-  
-  [![IG](https://img.shields.io/badge/Instragram-%40detzz.th-82008F?style=for-the-badge)](https://instagram.com/detzz.th)
-  
-  <a href="mailto:me@detzz.in.th">![E-Mail](https://img.shields.io/badge/e--mail-me%40detzz.in.th-coral?style=for-the-badge)</a>
-    
-</center>
+*   🌍  I'm based in Thailnad
+*   🖥️  See my portfolio at [suphakit.net](http://suphakit.net)
+*   ✉️  You can contact me at [contact@detzz.in.th](mailto:contact@detzz.in.th)
+*   🧠  I'm learning on nodejs & other frontend framework### Skills<p align="left">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+                                <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+                                <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.facebook.com/detzz.in.th" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/dethMastery" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/detzz.th" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/18911674/dethmastery" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/JojiDetzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.youtube.com/c/RTDeterK198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/dethMastery"><img src="https://github-readme-stats.vercel.app/api?username=dethMastery&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dethMastery's GitHub stats" /></a><a
+                      href="http://www.github.com/dethMastery"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=dethMastery&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/dethMastery"><img src="https://activity-graph.herokuapp.com/graph?username=dethMastery&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/dethMastery" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dethMastery&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
