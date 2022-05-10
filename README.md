@@ -1,7 +1,7 @@
 Hi 👋 My name is Suphakit P.
 ============================
 
-I'm a Front-End Developer (with a little of Back-End Skill) & Music Composer. This website is made to showed my old time projects that I have ever made. ;3
+I'm a Front-End Developer (with a little of Back-End Skill) & Music Composer. ;3
 
 * 🌍  I'm based in Thailnad
 * 🖥️  See my portfolio at [suphakit.net](http://suphakit.net)
