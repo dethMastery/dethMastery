@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suphakit P</h1>
 <h3 align="center">An artist with front-end & a little of back-end skill</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=flat-square" alt="dethmastery" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery" alt="dethmastery" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/jojidetzz?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" /></a> </p>
 
 - 🌱 I’m currently learning **on nodeJS & other frontend framework**
 
