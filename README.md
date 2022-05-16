@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **on nodeJS & other frontend framework**
 
-- 👨‍💻 All of my projects are available at [suphakit.net](suphakit.net)
+- 👨‍💻 All of my projects are available at [https://suphakit.net](https://suphakit.net)
 
 - 📝 I regularly write articles on [https://blog.suphakit.net](https://blog.suphakit.net)
 
