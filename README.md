@@ -34,8 +34,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/georgep"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="georgep" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dethmastery&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="dethmastery" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dethmastery&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="dethmastery" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dethmastery&show_icons=true&theme=synthwave&locale=en" alt="dethmastery" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dethmastery&show_icons=true&theme=synthwave&locale=en" alt="dethmastery" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dethmastery&theme=dark" alt="dethmastery" /></p>
