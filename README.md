@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suphakit P</h1>
 <h3 align="center">An artist with front-end & a little of back-end skill</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" />
+  <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/jojidetzz?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/jojidetzz?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" /></a> </p>
 
 - 🌱 I’m currently learning **on nodeJS & other frontend framework**
 
@@ -35,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dethmastery&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="dethmastery" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dethmastery&show_icons=true&theme=synthwave&locale=en" alt="dethmastery" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dethmastery&show_icons=true&theme=synthwave&locale=en" alt="dethmastery" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dethmastery&theme=dark" alt="dethmastery" /></p>
