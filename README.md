@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suphakit P</h1>
-<h3 align="center">An artist with front-end & a little of back-end skill</h3>
+<h3 align="center">A music composer with front-end & a little of back-end skill :3</h3>
 <br>
 
 <p align="center"> 
