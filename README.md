@@ -8,7 +8,6 @@
 </p>
 <br>
 
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" /></a>
 </p>
 <br>
@@ -34,7 +33,7 @@
   <a href="https://stackoverflow.com/users/18911674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18911674" height="30" width="40" /></a>
   <a href="https://fb.com/detzz.in.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="detzz.in.th" height="30" width="40" /></a>
   <a href="https://instagram.com/detzz.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detzz.th" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/katsuragi.wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katsuragi.wav" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCzWzP7jnrdRYrKLpx4P9D7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katsuragi.wav" height="30" width="40" /></a>
 </p>
 <br>
 
