@@ -3,12 +3,12 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" />
   <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/jojidetzz?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a>
 </p>
 <br>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dethmastery&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" align="center" /></a>
 </p>
 <br>
 
