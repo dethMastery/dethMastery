@@ -34,7 +34,7 @@
   <a href="https://fb.com/detzz.in.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="detzz.in.th" height="30" width="40" /></a>
   <a href="https://instagram.com/detzz.th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detzz.th" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCzWzP7jnrdRYrKLpx4P9D7A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="katsuragi.wav" height="30" width="40" /></a>
-  <a href="/https://blog.suphakit.net/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.suphakit.net/atom.xml" height="30" width="40" /></a>
+  <a href="https://blog.suphakit.net/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.suphakit.net/atom.xml" height="30" width="40" /></a>
 </p>
 <br>
 
