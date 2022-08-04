@@ -24,6 +24,12 @@
 <br>
 <br>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
+<br>
+
 <h2 align="left">
   Connect with me :
 </h2>
