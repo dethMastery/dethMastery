@@ -27,6 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New blog with &#39;Hexo&#39;](https://blog.suphakit.net/2022/07/29/blog-with-hexo/)
+- [Hello~ My new blog :D](https://blog.suphakit.net/2022/07/29/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
