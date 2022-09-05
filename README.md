@@ -28,9 +28,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/2286/11/20/9999999999999/)
+- [Day 0 - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/05/1662354201713/)
 - [My solo trip to Chiang Mai](https://blog.suphakit.net/2022/08/20/1660962732119/)
 - [What happened to me after remaking &quot;miss me yet&quot;?](https://blog.suphakit.net/2022/08/09/1660026566804/)
-- [Coming back.. After I&#39;m trying &#39;Astro&#39;.](https://blog.suphakit.net/2022/08/08/1659905139396/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
