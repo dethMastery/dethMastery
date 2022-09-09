@@ -4,7 +4,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dethmastery&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dethmastery" />
-  <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/jojidetzz?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a>
+  <a href="https://twitter.com/jojidetzz" target="blank"><img src="https://img.shields.io/twitter/follow/georgeKdeterk?logo=twitter&style=for-the-badge" alt="jojidetzz" /></a>
 </p>
 <br>
 
