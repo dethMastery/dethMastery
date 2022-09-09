@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I'm always on my bed lol**
 <br>
-<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +31,6 @@
 - [Day 3 - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/07/1662559423491/)
 - [Day 2 - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/07/1662484746447/)
 <!-- BLOG-POST-LIST:END -->
-<br>
 <br>
 
 <h2 align="left">
