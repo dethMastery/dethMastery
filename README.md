@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suphakit Pinyoworapot</h1>
-<h3 align="center">A music composer with front-end & a little of back-end skill :3</h3>
+<h3 align="center">A music composer with full-stack web dev. skill :3</h3>
 <br>
 
 <p align="center"> 
