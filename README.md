@@ -26,10 +26,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Song Distributing Plan](https://blog.suphakit.net/2286/11/20/9999999999999/)
-- [&lpar;Final Day + Conclusion&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/10/1662866532553/)
-- [&lpar;Day 5&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/09/1662725120736/)
-- [&lpar;Day 4&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/2022/09/09/1662665769834/)
+- [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [&lpar;Final Day + Conclusion&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/posts/1662866532553/)
+- [&lpar;Day 5&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/posts/1662725120736/)
+- [&lpar;Day 4&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/posts/1662665769834/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
