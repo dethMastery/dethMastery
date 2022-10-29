@@ -27,9 +27,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [1st time on solo on a flight with My one way trip back to phayao](https://blog.suphakit.net/posts/1667006040545/)
 - [My one day trip to BKK](https://blog.suphakit.net/posts/1666473486757/)
 - [&lpar;Final Day + Conclusion&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/posts/1662866532553/)
-- [&lpar;Day 5&rpar; - TESA Top Gun Rally ครั้งที่ 16](https://blog.suphakit.net/posts/1662725120736/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
