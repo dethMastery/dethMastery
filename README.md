@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://blog.suphakit.net](https://blog.suphakit.net)
 
-- 📫 How to reach me **contact@detzz.in.th**
+- 📫 How to reach me **me@suphakit.net**
 
 - ⚡ Fun fact **I'm always on my bed lol**
 <br>
