@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **me@suphakit.net**
 
-- ⚡ Fun fact **I'm always on my bed lol**
+- ⚡ Fun fact **In 2023, I will make a garden :3**
 <br>
 
 ### Blogs posts
