@@ -57,5 +57,7 @@
 
 <span align="center">
   <h2 align="center">Support :</h2>
-  <a href="https://ko-fi.com/georgep"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="georgep" /></a>
+  <div style="width: 100%; justify-content: center;">
+    <a href="https://ko-fi.com/georgep"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="georgep"/></a>
+  </div>
 </span>
