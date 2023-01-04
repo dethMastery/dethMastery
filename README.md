@@ -59,6 +59,7 @@
   <h2 align="center">Support :</h2>
   <div style="width: 100%; justify-content: center;">
     <a href="https://ko-fi.com/georgep"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="georgep"/></a><br />
-    <a href="https://stat-card.000198.xyz"><img src="https://stat-card.000198.xyz/api?username=dethMastery&count_private=true&show_icons=true&theme=panda" alt="statCard" /></a>
+    <a href="https://stat-card.000198.xyz"><img src="https://stat-card.000198.xyz/api?username=dethMastery&count_private=true&show_icons=true&theme=panda" alt="statCard" /></a><br />
+    <a href="https://stat-card.000198.xyz"><img src="https://stat-card.000198.xyz/api/top-langs/?username=dethMastery&layout=compact&theme=panda" alt="statCard" /></a>
   </div>
 </span>
