@@ -53,7 +53,7 @@ let dethMastery = {
 
 # Contact
 
-"[Facebook](https://fb.com/detzz.in.th)", "[Discord](https://did.000198.xyz/@298415109359796234)", "[Twitter](https://twitter.com/georgekdeterk)", "[E-mail](mailto:owner@detzz.in.th)"
+"[HomePage](https://suphakit.net/)", "[Facebook](https://fb.com/detzz.in.th)", "[Discord](https://did.000198.xyz/@298415109359796234)", "[Twitter](https://twitter.com/georgekdeterk)", "[E-mail](mailto:me@suphakit.net)"
 
 # Blog Update
 <!-- BLOG-POST-LIST:START -->
