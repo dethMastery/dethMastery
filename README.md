@@ -1,6 +1,6 @@
 <center>
 <a href="https://twitter.com/georgekdeterk" target="_blank">
-  <img src="http://readme.katsuragi.cyou/api/canvas/?gh=dethMastery&id=25049577&tw=georgekdeterk&name=Suphakit&lName=P.&subText=A+music+composer+with+some+of+web+dev+skill&bYear=2002&ageLeft=just+a&ageRight=y/o+programmer+who+love+to+coding+and+composing&fc1=48847A&fc2=313E51&bg=2e2f2f&fg=f5f5f5">
+  <img src="http://readme.katsuragi.cyou/api/canvas/?gh=dethMastery&id=25049577&tw=georgekdeterk&name=Suphakit&lName=P.&subText=A+music+composer+with+some+of+web+dev+skill&bYear=2002&ageLeft=just+a&ageRight=y/o+programmer+who+love+to+coding+and+composing&fc1=48847A&fc2=313E51&bg=2E3541&fg=f5f5f5">
 </a>
 <br/>
 
