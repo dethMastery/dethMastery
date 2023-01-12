@@ -41,6 +41,9 @@ let dethMastery = {
     ], 
     softwares: [
       {"Adobe Photoshop", "Adobe XD", "Frammer", "Figma", "PostMan"}
+    ],
+    others: [
+      {"Linux", "Git"}
     ]
   }
 }
