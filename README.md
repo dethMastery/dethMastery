@@ -39,7 +39,7 @@ let dethMastery = {
     staticSiteGenerator: [
       {"Gatsby", "Nuxt.js", "Hexo", "11ty"}
     ], 
-    staticSiteGenerator: [
+    softwares: [
       {"Adobe Photoshop", "Adobe XD", "Frammer", "Figma", "PostMan"}
     ]
   }
