@@ -54,6 +54,10 @@ let dethMastery = {
 
 # Blog Update
 <!-- BLOG-POST-LIST:START -->
+- [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [2022 Recap](https://blog.suphakit.net/posts/1672728780522/)
+- [Spotify for Artist Masterclass &lpar;1st time&rpar;](https://blog.suphakit.net/posts/1668705698714/)
+- [1st time on solo on a flight with My one way trip back to phayao](https://blog.suphakit.net/posts/1667006040545/)
 <!-- BLOG-POST-LIST:END -->
   
 # My Stats
