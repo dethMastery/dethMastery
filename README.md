@@ -1,20 +1,17 @@
 <h1><p align="center">Hiya! This is 'Suphakit P'.</p></h1>
 
-## About me
-```js
-let technologies = [
-  'C', 'JavaScript', 'TypeScript', 'PHP', 'Vue.js', 'React.js', 'Svelte.js', 'Bootstrap', 'Pug', 'HTML5', 'CSS3', 'Stylus', 'Node.js', 'Express.js', 'MySQL', 'MariaDB', 'Heroku', 'canvas.js', 'IFTTT', 'Zapier', 'Cordava', 'Gatsby', 'Nuxt.js', 'Hexo', '11ty', 'Adobe Photoshop', 'Adobe XD', 'Frammer', 'Figma', 'Figma', 'Postman', 'Linux', 'Git'
-]
-```
-<br />
-
 ## Contact
 "[HomePage](https://suphakit.net)", "[Facebook](https://fb.com/detzz.in.th)", "[Discord](https://did.000198.xyz/@298415109359796234)", "[Twitter](https://twitter.com/georgeKdeterk)", "[E-Mail](mailto:me@suphakit.net)"
 
 <br />
 
-## Blog Update
+## Spotify Recently Played
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5zl2fr8q61bys24qbjwzgsriv&count=1" alt="Recently played" />
+</p>
+<br />
 
+## Blog Update
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
