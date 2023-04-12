@@ -14,9 +14,9 @@
 ## Blog Update
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [Life Blogging after being in Chiang Mai for about 1 month](https://blog.suphakit.net/posts/1681323312380/)
 - [Febuary 2023 | Recap](https://blog.suphakit.net/posts/1677885288949/)
 - [My Chiang Mai Trip &lpar;Pt.2&rpar;](https://blog.suphakit.net/posts/1677760348055/)
-- [January 2023 | Recap](https://blog.suphakit.net/posts/1675655511935/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
