@@ -14,9 +14,9 @@
 ## Blog Update
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [21st Birthday?](https://blog.suphakit.net/posts/1686876980726/)
 - [Part explanation about &quot;CMMT 2023&quot;](https://blog.suphakit.net/posts/1684606887221/)
 - [Life Blogging after being in Chiang Mai for about 1 month](https://blog.suphakit.net/posts/1681323312380/)
-- [Febuary 2023 | Recap](https://blog.suphakit.net/posts/1677885288949/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
