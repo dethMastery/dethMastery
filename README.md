@@ -14,9 +14,9 @@
 ## Blog Update
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [Behind the scene &quot;Love, In love &amp; HeartBroken&quot;](https://blog.suphakit.net/posts/1687232059218/)
 - [21st Birthday?](https://blog.suphakit.net/posts/1686876980726/)
 - [Part explanation about &quot;CMMT 2023&quot;](https://blog.suphakit.net/posts/1684606887221/)
-- [Life Blogging after being in Chiang Mai for about 1 month](https://blog.suphakit.net/posts/1681323312380/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
