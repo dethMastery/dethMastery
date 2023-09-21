@@ -129,7 +129,7 @@
 ###
 
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dethMastery&theme=nord&hide_border=true&border_radius=10" alt="streakCard" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dethMastery&theme=catppuccin-macchiato&hide_border=true&border_radius=10" alt="streakCard" /></a>
   </p>
 </p>
 
