@@ -18,9 +18,9 @@
 ## Blog Update
 <!-- BLOG-POST-LIST:START -->
 - [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [2023 Recap](https://blog.suphakit.net/posts/1703991760725/)
 - [Behind the scene &quot;Love, In love &amp; HeartBroken&quot;](https://blog.suphakit.net/posts/1687232059218/)
 - [21st Birthday?](https://blog.suphakit.net/posts/1686876980726/)
-- [Part explanation about &quot;CMMT 2023&quot;](https://blog.suphakit.net/posts/1684606887221/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
