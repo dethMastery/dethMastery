@@ -1,9 +1,8 @@
+[//]: <> (<img src="https://readme.katsuragi.cyou/api/canvas/?gh=dethMastery&id=25049577&tw=georgekdeterk&name=Suphakit&lName=P.&subText=A+music+composer+with+some+of+web+dev+skill&bYear=2002&ageLeft=just+a&ageRight=y/o+music+composer+who+burnt+out+of+coding+very+easily&fc1=48847A&fc2=313E51&bg=2E3541&fg=f5f5f5&" style="width: 100%; height: auto;">)
+[//]: <> (<img src="https://telegra.ph/file/b5711f1db752b25a0b785.png">)
+
 <h1><p align="center">Hiya! This is 'Suphakit P'. 👀✨</p></h1>
 <h2><p align="center">A Music Composer who can do web stuff :3</p></h2>
-[comment]: <> (<img src="https://readme.katsuragi.cyou/api/canvas/?gh=dethMastery&id=25049577&tw=georgekdeterk&name=Suphakit&lName=P.&subText=A+music+composer+with+some+of+web+dev+skill&bYear=2002&ageLeft=just+a&ageRight=y/o+music+composer+who+burnt+out+of+coding+very+easily&fc1=48847A&fc2=313E51&bg=2E3541&fg=f5f5f5&" style="width: 100%; height: auto;">)
-[comment]: <> (<img src="https://telegra.ph/file/b5711f1db752b25a0b785.png">)
-
-
 
 ## Contact
 "[HomePage](https://suphakit.net)", "[Facebook](https://fb.com/detzz.in.th)", "[Twitter](https://twitter.com/georgeKdeterk)", "[E-Mail](mailto:me@suphakit.net)"
