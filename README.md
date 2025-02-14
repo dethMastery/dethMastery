@@ -17,7 +17,7 @@
 
 ## Blog Update
 <!-- BLOG-POST-LIST:START -->
-- [Song Distributing Plan](https://blog.suphakit.net/posts/9999999999999/)
+- [DevLog001 -- The impression after turning back to windows after on mac / linux for a long time](https://blog.suphakit.net/posts/1739494647355/)
 - [2023 Recap](https://blog.suphakit.net/posts/1703991760725/)
 - [Behind the scene &quot;Love, In love &amp; HeartBroken&quot;](https://blog.suphakit.net/posts/1687232059218/)
 - [21st Birthday?](https://blog.suphakit.net/posts/1686876980726/)
