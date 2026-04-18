@@ -31,7 +31,7 @@
 </p>
 
 # Tech Stats
-<p align="left"> 
+<p style="width: 100%; display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
   </a> 
