@@ -27,7 +27,7 @@
 
 ## My Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=dethMastery&theme=nord&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" align="center" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=dethMastery&theme=nord&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="dethmastery" align="center" /></a>
 </p>
 
 # Tech Stats
