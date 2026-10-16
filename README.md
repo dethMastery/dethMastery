@@ -12,7 +12,6 @@
 ## Blog Update
 
 <!-- BLOG-POST-LIST:START -->
-
 - [DevLog001 -- The impression after turning back to windows after on mac / linux for a long time](https://blog.suphakit.net/posts/1739494647355/)
 - [2023 Recap](https://blog.suphakit.net/posts/1703991760725/)
 - [Behind the scene &quot;Love, In love &amp; HeartBroken&quot;](https://blog.suphakit.net/posts/1687232059218/)
